@@ -6,8 +6,8 @@ This repository contains links to all completed CodeAlpha tasks.
 Repository: https://github.com/shanmathivenkatesan/CodeAlpha_StudentGradeTracker
 
 ## Task 2
-Repository: https://github.com/YOUR_USERNAME/task2_repo_name
+Repository: https://github.com/shanmathivenkatesan/CodeAlpha_HotelReservationSystem
 
 ## Task 3
-Repository: https://github.com/YOUR_USERNAME/task3_repo_name
-# codealpha_tasks
+Repository: https://github.com/shanmathivenkatesan/CodeAlpha_StockTradingPlatform
+
